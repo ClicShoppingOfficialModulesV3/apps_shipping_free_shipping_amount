@@ -17,7 +17,7 @@ http://monsite/myAdmin/index.php?A&Shipping\FreeShippingAmount
 
 Activate the module in Shipping
 
-marketplace link : https://www.clicshopping.org/forum/files/file/40-apps-shipping-free-amount/
+marketplace link : https://www.clicshopping.org/forum/files/file/35-apps-shipping-free-amount/
 
 ![free](https://github.com/ClicShoppingOfficialModulesV3/apps_shipping_free_shipping_amount/blob/master/ModuleInfosJson/free_shipping.png)
 
